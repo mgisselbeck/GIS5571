@@ -3,7 +3,7 @@ gis = GIS("home")
 
 import requests
 
-url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=44.976248%2C-93.229443&radius=15000&type=restaurant&keyword=restaurant&key=AIzaSyBM8hTHQJ2WGdAYu92eTzfYA8kVSaGREAw"
+url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=44.976248%2C-93.229443&radius=15000&type=restaurant&keyword=restaurant&key=MY-API-KEY"
 
 #Change location to Minneapolis
 
